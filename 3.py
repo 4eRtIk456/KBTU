@@ -12,7 +12,7 @@ x = "Sally" # x is now of type str
 print(x)
 
 """
-Variable names
+Variable names 
 """
 
 myvar = "John"
